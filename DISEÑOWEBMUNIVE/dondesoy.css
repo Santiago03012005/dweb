@@ -1,0 +1,25 @@
+.mostrar{
+    background-color: pink;
+    margin-top: -15px;
+    text-align: left;
+    
+}
+div h1 {
+    background-color: red;
+    text-align: center;
+}
+.diseño{
+    text-align: center;
+    background-color: yellow;
+    margin-top: 90px;
+
+}
+img {
+    
+    width: 180px;
+    height: 180px;
+    border-radius: 20%;
+    object-fit: cover;
+    align-items: center;
+    
+}
